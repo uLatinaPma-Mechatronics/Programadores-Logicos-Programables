@@ -1,1 +1,1 @@
-# Proyecto Realizado por: Javier Henriquez 
+# Proyecto Realizado por: [Javier Henriquez](https://github.com/alexh0118)
